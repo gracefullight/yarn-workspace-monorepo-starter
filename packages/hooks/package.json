@@ -1,0 +1,16 @@
+{
+  "name": "@gracefullight/hooks",
+  "main": "build/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "peerDependencies": {
+    "react": ">=17"
+  },
+  "devDependencies": {
+    "@types/node": "^16.11.24",
+    "@types/react": "^17.0.39",
+    "react": "^17.0.2",
+    "typescript": "^4.5.5"
+  }
+}
